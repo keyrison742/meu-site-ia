@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IA: O Futuro nas Suas Mãos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #4f46e5;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #4f46e5;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      background-color: #e0e0e0;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>IA: O Futuro nas Suas Mãos</h1>
+    <p>Descubra como a Inteligência Artificial pode ajudar você a ganhar dinheiro desde cedo</p>
+  </header>
+
+  <section>
+    <h2>Por que a IA foi criada?</h2>
+    <p>A Inteligência Artificial foi desenvolvida para automatizar tarefas repetitivas, acelerar descobertas e resolver problemas complexos. Hoje, ela está presente em redes sociais, filmes, educação e negócios.</p>
+  </section>
+
+  <section>
+    <h2>Importância da IA hoje</h2>
+    <ul>
+      <li>Facilita a vida e economiza tempo</li>
+      <li>Cria novas oportunidades de trabalho</li>
+      <li>Pode ser usada por qualquer pessoa, inclusive adolescentes</li>
+      <li>Está moldando o futuro da tecnologia</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Melhores sites para ganhar dinheiro com IA (sendo adolescente)</h2>
+    <ul>
+      <li><strong>Kittl</strong> – Crie artes e venda camisetas</li>
+      <li><strong>Fiverr</strong> – Ofereça serviços usando IA</li>
+      <li><strong>Canva com IA</strong> – Crie conteúdo visual para vender</li>
+      <li><strong>ChatGPT</strong> – Escreva textos, ideias e roteiros</li>
+      <li><strong>Playground AI</strong> – Gere imagens para NFTs, livros, etc.</li>
+      <li><strong>Notion AI</strong> – Organize e crie templates para vender</li>
+      <li><strong>Tome.app</strong> – Crie apresentações profissionais</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Como começar?</h2>
+    <ul>
+      <li>Peça permissão dos seus pais ou responsáveis</li>
+      <li>Crie um e-mail profissional</li>
+      <li>Use as redes sociais com responsabilidade</li>
+      <li>Comece pequeno e aprenda sempre</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Use a IA com responsabilidade. Este site é apenas informativo e voltado para fins educacionais.</p>
+  </footer>
+</body>
+</html>
